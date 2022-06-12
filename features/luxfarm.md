@@ -7,3 +7,5 @@ description: Earn from staking your LP tokens
 Add liquidity for BNB/LXPD and get LP tokens to stake in LuxFARM earn high APY with us.
 
 _**More details coming soon.**_
+
+![Loading..](../.gitbook/assets/update-banner.png)
