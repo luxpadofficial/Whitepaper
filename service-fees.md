@@ -16,10 +16,10 @@ _****_
 * Buyback Baby Token Minting Fees: 0.1 BNB
 * NFT Standard minting fees: 0.1 BNB
 * NFT Staking dynamic smart contract minting fees:  0.1 BNB
-* Create your own NFT staking  in our platform fees: 0.4 BNB + 1% of BNB Raised.&#x20;
+* Create your own NFT staking  in our platform fees: 0.5 BNB&#x20;
 * Create your own NFT minting  in our platform fees: 0.4 BNB + 1% of BNB Raised.&#x20;
-* Create BSC Launchpad Fees: 0.5 BNB + 1% of Tokens Sold + 1% of BNB Raised.&#x20;
-* Create BSC Fair Launch Fees: 0.5 BNB + 1% of Tokens Sold + 1% of BNB Raised.
+* Create BSC Launchpad Fees: 0.5 BNB + 2% of Tokens Sold + 1% of BNB Raised.&#x20;
+* Create BSC Fair Launch Fees: 0.5 BNB + 2% of Tokens Sold + 1% of BNB Raised.
 
 
 
@@ -30,10 +30,10 @@ _****_
 * Baby Token Minting Fees: 0.008 ETH
 * NFT Standard minting fees: 0.008 ETH
 * NFT Staking dynamic smart contract minting fees:  0.008 ETH
-* Create your own NFT staking  in our platform fees:  0.09 + 1% of ETH Raised
+* Create your own NFT staking  in our platform fees:  0.09&#x20;
 * Create your own NFT minting  in our platform fees: 0.09 + 1% of ETH Raised
-* Create ETH Launchpad Fees: Current Fees: 0.1 ETH + 1% of Tokens Sold + 1% of ETH Raised
-* Create ETH Fair Launch Fees: Current Fees: 0.1 ETH + 1% of Tokens Sold + 1% of ETH Raised
+* Create ETH Launchpad Fees: Current Fees: 0.1 ETH + 2% of Tokens Sold + 1% of ETH Raised
+* Create ETH Fair Launch Fees: Current Fees: 0.1 ETH + 2% of Tokens Sold + 1% of ETH Raised
 
 
 
@@ -44,10 +44,10 @@ _****_
 * Baby Token Minting Fees: 25 MATIC
 * NFT Standard minting fees: 30 MATIC&#x20;
 * NFT Staking dynamic smart contract minting fees:  30 MATIC
-* Create your own NFT staking  in our platform fees:  450 + 1% of MATIC Raised
+* Create your own NFT staking  in our platform fees:  450&#x20;
 * Create your own NFT minting  in our platform fees: 450 + 1% of MATIC Raised
-* Create Polygon Launchpad Fees: Current Fees: 400 MATIC + 1% of Tokens Sold + 1% of MATIC Raised
-* Create Polygon Fair Launch Fees: Current Fees: 400 MATIC + 1% of Tokens Sold + 1% of MATIC Raised
+* Create Polygon Launchpad Fees: Current Fees: 400 MATIC + 2% of Tokens Sold + 1% of MATIC Raised
+* Create Polygon Fair Launch Fees: Current Fees: 400 MATIC + 2% of Tokens Sold + 1% of MATIC Raised
 
 
 
@@ -59,10 +59,10 @@ _****_
 * Buyback Baby Token Minting Fees: 50 CRO&#x20;
 * NFT Standard minting fees: 60 CRO
 * NFT Staking dynamic smart contract minting fees: 60 CRO
-* Create your own NFT staking  in our platform fees: 400 CRO  + 1% of CRO Raised.
+* Create your own NFT staking  in our platform fees: 400 CRO&#x20;
 * Create your own NFT minting  in our platform fees: 400 CRO  + 1% of CRO Raised.
-* Create Cronos Launchpad Fees: 500 CRO + 1% of Tokens Sold + 1% of CRO Raised.
-* Create Cronos Fair Launch Fees: 500 CRO + 1% of Tokens Sold + 1% of CRO Raised
+* Create Cronos Launchpad Fees: 500 CRO + 2% of Tokens Sold + 1% of CRO Raised.
+* Create Cronos Fair Launch Fees: 500 CRO + 2% of Tokens Sold + 1% of CRO Raised
 
 
 
