@@ -1,6 +1,6 @@
 # Luxpad Introduction
 
-Luxpad is a decentralized trustless launchpad platform, create your own customized IDO Launchpad, Token, NFT, Staking contract and launch on any blockchain inside in Luxpad platform with cheapest service fee. Luxpad is not only a platform where you can list your project to raise safe funds from the investor but where you can create a staking platform without worrying about coding the platform we provide you a hassle-free platform with only clicking and providing information with your NFT staking this is fully decentralized the ownership of the contract NFT staking is your same as with the launchpad presale and fair-launch.
+Luxpad is a decentralized self-served launchpad platform, create your own customized IDO Launchpad, Token, NFT, Staking contract and launch on any blockchain inside in Luxpad platform with cheapest service fee. Luxpad is not only a platform where you can list your project to raise safe funds from the investor but where you can create a staking platform without worrying about coding the platform we provide you a hassle-free platform with only clicking and providing information with your NFT staking this is fully decentralized the ownership of the contract NFT staking is your same as with the launchpad presale and fair-launch.
 
 
 
