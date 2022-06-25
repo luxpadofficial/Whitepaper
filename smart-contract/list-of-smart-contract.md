@@ -1,8 +1,8 @@
 # List of Smart Contract
 
-**Luxpad Token LXPD:** 0x673140f0894143b81DA9784C7624eb14656B9DB7
+**Luxpad Token LXPD:**[ **0xfde55fa832da95d0c45240f0450fd86caf2e9ac1**](https://bscscan.com/token/0xfde55fa832da95d0c45240f0450fd86caf2e9ac1)****
 
-**Luxpad Token Explorer:** [**https://bscscan.com/address/0x673140f0894143b81da9784c7624eb14656b9db7**](https://bscscan.com/address/0x673140f0894143b81da9784c7624eb14656b9db7)****
+**Luxpad Token Explorer:** [**https://bscscan.com/token/0xfde55fa832da95d0c45240f0450fd86caf2e9ac1**](https://bscscan.com/token/0xfde55fa832da95d0c45240f0450fd86caf2e9ac1)****
 
 **Pool Farming:**
 
