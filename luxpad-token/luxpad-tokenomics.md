@@ -32,7 +32,7 @@ To trade in pancakeswap you must need to change the slippage so can trade/buy/se
 
 ## **Token Allocation:**
 
-**Seed Sale:** Round1: 7,000,000,000 LXPD 60% TGE, vesting 40% 2 months each months 2% release; unsold token burn and it will send to 0x000000000000000000000000000000000000dead.
+**Seed Sale:** Round1: 7,000,000,000 LXPD ; unsold token burn and it will send to 0x000000000000000000000000000000000000dead.
 
 **Public Launchpad sale:** 15,000,000,000 LXPD no vesting. unsold token burn and it will send to 0x000000000000000000000000000000000000dead.
 
