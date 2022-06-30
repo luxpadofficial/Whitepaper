@@ -36,7 +36,9 @@ To trade in pancakeswap you must need to change the slippage so can trade/buy/se
 
 **Public Launchpad sale:** 15,000,000,000 LXPD no vesting. unsold token burn and it will send to 0x000000000000000000000000000000000000dead.
 
-**Rewards Pool & Staking program:** 40,000,000,000 LXPD will transfer to Staking contract in different partnership yield farming site.
+**Rewards Pool & Staking program:** 20,000,000,000 LXPD will transfer to Staking contract in different partnership yield farming site.
+
+**Liquidity Pool:** 20,000,000,000 LXPD will be use for LXPD LP
 
 **Marketing plan & Exchange listing:** 2,000,000,000 LXPD&#x20;
 
