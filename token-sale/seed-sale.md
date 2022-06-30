@@ -20,7 +20,7 @@ _5. Get Luxpad Hoodies Jacket(Limited only for Seed sale participants, 1 month s
 
 Seed sale will be launch on June 10, 2022&#x20;
 
-•**Total Token Sale:** 7,000,000,000 LXPD, **50% TGE,  50%VESTING for 1 month**
+•**Total Token Sale:** 7,000,000,000 LXPD
 
 •**Softcap:** 50 bnb
 
