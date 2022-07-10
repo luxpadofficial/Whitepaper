@@ -4,7 +4,7 @@ The official launchpad of Luxpad will be launched after the testnet airdrop.
 
 ****
 
-•**Public IDO:** 15,000,000,000 LXPD, **70% unlocked,  30% VESTING for 1 month**
+•**Public IDO:** 15,000,000,000 LXPD, **100% unlocked**
 
 •**SoftCap:** 100 BNB
 
