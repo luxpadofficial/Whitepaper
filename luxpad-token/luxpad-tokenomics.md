@@ -44,9 +44,9 @@ To trade in pancakeswap you must need to change the slippage so can trade/buy/se
 
 **Team & Advisor:** 1,000,000,000 LXPD vesting 16 months, start at 1st month from launch date token is locked for 16 months.
 
-**Community Task Airdrop:** 15,000,000,000 LXPD vesting. 20% TGE, 80% 4 months vesting, Target user 20,000+
+**Community Task Airdrop:** 15,000,000,000 LXPD vesting. 20% TGE, 80% 10 months vesting, Target user 20,000+
 
-**Testnet incentivize:** 10,000,000,000 LXPD, 20% TGE, 80% 4 months vesting.  how to be qualified go here:[#how-can-be-eligible-for-testnet-event](../testnet-incentivize.md#how-can-be-eligible-for-testnet-event "mention")
+**Testnet incentivize:** 10,000,000,000 LXPD, 20% TGE, 80% 10 months vesting.  how to be qualified go here:[#how-can-be-eligible-for-testnet-event](../testnet-incentivize.md#how-can-be-eligible-for-testnet-event "mention")
 
 **Luxpad loyal community:** 10,000,000,000 LXPD; this supply will be used in future rewards who use Luxpad platform. Who gets this airdrop? a user who uses the Luxpad platform, bought in fair-launch, launchpad, NFT marketplace, use the NFT staking features and staking LXPD. Be loyal to us and get rewards. Estimated snapshot 6 months from the launch date of Luxpad platform. _note this token supply is locked for 6months._
 
