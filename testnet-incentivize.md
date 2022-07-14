@@ -4,7 +4,7 @@ For making sure that our platform is working well and there is no bug or error o
 
 Each user who will join with this event will be rewarded for checking all the errors or bug that will seen in the platform to make this Luxpad better for each of our community users.
 
-**Testnet incentivize reward:** 10,000,000,000 LXPD, 20% TGE, 80% 4 months vesting [#how-can-be-eligible-for-testnet-event](testnet-incentivize.md#how-can-be-eligible-for-testnet-event "mention")
+**Testnet incentivize reward:** 10,000,000,000 LXPD, 20% TGE, 80% 10 months vesting [#how-can-be-eligible-for-testnet-event](testnet-incentivize.md#how-can-be-eligible-for-testnet-event "mention")
 
 **Testnet event will start on:** July 15 to July 20
 
