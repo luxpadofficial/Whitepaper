@@ -4,7 +4,7 @@ As we promise Luxpad will remain the cheapest listing price in crypto so everyon
 
 
 
-_Note: Luxpad does not sell any tokens from service fees, we give them as airdrop to our community and list them on the airdrop dashboard. Note that only active users of the Luxpad community will receive an airdrop from a service fee on the project listed fair-launch, Presale launchpad. We accept also buyback from developers of the tokens if don't what to airdrop their tokens to the community. We airdrop the service fee token to the community as part of our marketing plan to expand more and create a large community that supports a start-up project._
+_Note: Luxpad does not sell any tokens from service fees, we give them as airdrop to our community and list them on the airdrop dashboard. Note that only active LuxNFT staker(holder) of the Luxpad community will receive an airdrop from a service fee on the project listed fair-launch, Presale launchpad. We accept also buyback from developers of the tokens if don't what to airdrop their tokens to the community. We airdrop the service fee token to the community as part of our marketing plan to expand more and create a large community that supports a start-up project._
 
 _****_
 
