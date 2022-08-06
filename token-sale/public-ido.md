@@ -14,7 +14,7 @@ The official launchpad of Luxpad will be launched after the testnet airdrop.
 
 **•Public IDO Token price per 1 bnb:** 15,000,000 LXPD
 
-•**Public IDO Token price per 1 LXPD Token:  $0.0000158**&#x20;
+•**Public IDO Token price per 1 LXPD Token:  $0.0000158 or** 0.0000000666667 BNB
 
 •**Minimum Invest:** NO LIMIT
 
