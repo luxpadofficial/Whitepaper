@@ -20,7 +20,7 @@ The official launchpad of Luxpad will be launched after the testnet airdrop.
 
 •**Maximum Invest:** NO LIMIT
 
-•**Listing price in pancakeswap**: **$0.000019**
+•**Listing price in pancakeswap**: **$0.000025**
 
 •**Liquidity Duration Locked:** Forever (50,000,000 years) or LP burned
 
