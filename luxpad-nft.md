@@ -18,6 +18,7 @@ _3.Access some feature (Automatically whitelist in some project listed in Luxpad
 
 **Minting Start: after mainnet launch**
 
-**MAX supply: 1000 LuxNFT NFT mint price: 0.1 BNB**
+**MAX supply: 1000 LuxNFT NFT mint price: 0.1 BNB**\
+**Minting Date: August 14, 2022**
 
 ****
