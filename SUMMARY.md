@@ -16,6 +16,7 @@
 
 ## Features
 
+* [LuxDrop](features/luxdrop.md)
 * [Launchpad](features/launchpad/README.md)
   * [Launchpad List](features/launchpad/launchpad-list.md)
   * [Create Launchpad](features/launchpad/create-launchpad.md)
@@ -23,10 +24,9 @@
   * [Create Staking](features/launchpad/create-staking.md)
   * [Create Token](features/launchpad/create-token.md)
   * [Create NFT](features/launchpad/create-nft.md)
-* [LuxFarm](features/luxfarm.md)
 * [LuxLock](features/luxlock.md)
+* [LuxFarm](features/luxfarm.md)
 * [LuxDAO](features/luxdao.md)
-* [LuxDrop](features/luxdrop.md)
 * [NFT/Token Staking](features/nft-token-staking.md)
 * [NFT MARKETPLACE](features/nft-marketplace.md)
 
