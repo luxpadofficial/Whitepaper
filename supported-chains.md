@@ -13,3 +13,9 @@ For now, we only support **Ethereum, Binance Smart chain, Polygon, and Cronos ne
 **Cronos:** [**https://mm.finance/swap**](https://mm.finance/swap)****
 
 **Evmos:** [**https://app.diffusion.fi/#/swap**](https://app.diffusion.fi/#/swap)****
+
+**OKC:** [**https://www.cherryswap.net/#/swap**](https://www.cherryswap.net/#/swap)****
+
+**CSC:**&#x20;
+
+**PlatON:** [**https://dipoleswap.exchange/**](https://test.dipoleswap.exchange/%22)****
