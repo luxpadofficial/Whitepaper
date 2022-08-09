@@ -4,6 +4,8 @@ description: In this page Luxpad NFT explain.
 
 # Luxpad NFT
 
+![LuxNFT](<.gitbook/assets/NFT PASS with BG.png>)
+
 **Luxpad NFT access pass is the access to our LuxDrop feature if you have access pass and staked it you will have a benefits**
 
 _Benefits of Luxpad NFT access pass:_
@@ -17,3 +19,5 @@ _3.Access some feature (Automatically whitelist in some project listed in Luxpad
 **Minting Start: after mainnet launch**
 
 **MAX supply: 1000 LuxNFT NFT mint price: 0.1 BNB**
+
+****
