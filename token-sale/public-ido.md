@@ -22,7 +22,8 @@ The official launchpad of Luxpad will be launched after the testnet airdrop.
 
 •**Listing price in pancakeswap**: **$0.000025**
 
-•**Liquidity Duration Locked:** Forever (50,000,000 years) or LP burned
+•**Liquidity Duration Locked:** Forever (50,000,000 years) or LP burned\
+**•Top 50 buy will received LuxNFT**
 
 
 

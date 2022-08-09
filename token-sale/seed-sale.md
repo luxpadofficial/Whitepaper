@@ -12,7 +12,7 @@ _3.Early holders of LUXPAD TOKEN (LXPD)_
 
 _4. Get a free mint with our Luxpad NFT's_
 
-_5. Get Luxpad Hoodies Jacket(Limited only for Seed sale participants, 1 month shipment process) first 50 highest buy only_
+__
 
 
 
