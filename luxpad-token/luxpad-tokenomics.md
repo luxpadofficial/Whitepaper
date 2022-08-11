@@ -44,7 +44,7 @@ To trade in pancakeswap you must need to change the slippage so can trade/buy/se
 
 **Community Task Airdrop:** 15,000,000,000 LXPD vesting. 20% TGE, 80% 10 months vesting, Target user 20,000+
 
-**Testnet incentivize:** 10,000,000,000 LXPD, 20% TGE, 80% 10 months vesting.  how to be qualified go here:[#how-can-be-eligible-for-testnet-event](../testnet-incentivize.md#how-can-be-eligible-for-testnet-event "mention")
+**Testnet incentivize reward:** 10,000,000,000 LXPD, 30% TGE, 70% 5 months vesting .  how to be qualified go here:[#how-can-be-eligible-for-testnet-event](../testnet-incentivize.md#how-can-be-eligible-for-testnet-event "mention")
 
 **BURN:** WE WILL BURN 35,000,000,000 OF LXPD BEFORE THE PUBLIC SALE
 
